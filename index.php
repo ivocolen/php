@@ -1,7 +1,7 @@
 <?php
 
-echo "Hello world :D weeee";
+echo "Olá, mundo :D";
 
-echo "AAloooooW";
+echo "Olá 2";
 
 ?>
